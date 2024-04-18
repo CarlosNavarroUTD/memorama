@@ -1,0 +1,10 @@
+Universal 
+Existencial
+Y
+O
+No
+Entonces
+Bicondicional
+Binario
+Decimal
+Exadecimal
